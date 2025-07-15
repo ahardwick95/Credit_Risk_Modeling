@@ -8,7 +8,7 @@ This directory contains all datasets used throughout the credit risk modeling pr
 
 data/  
 ├── raw/  
-│ ├── Link to the original datasets
+│ ├── Link to the original datasets  
 ├── cleaned/  
 │ ├── cleaned_accepted_loans_2007_2010.csv # Cleaned & filtered accepted loans (used for modeling)  
 │ └── cleaned_rejected_loans_2007_2010.csv # Cleaned rejected loans (used for exploratory analysis)  
